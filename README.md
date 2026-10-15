@@ -3,7 +3,7 @@
 **`Desenvolverdor Front_end`**
 
 Me chamo Fernando, tenho 20 anos e sou de São Paulo.
-Concluí o ensino médio na Etec Jardim Ângela, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando o Proprofisão no Instituto Proa. Sou apaixonado por técnologia e compartilho meu conhecimento atravéz de projetos práticos e modernos.
+Concluí o ensino médio na Etec Jardim Ângela, com o curso técnico em desenvolvimento de sistemas. Atualmente estou cursando o Proprofisão no Instituto Proa. Sou apaixonado por técnologia e compartilho meus conhecimentos atravéz de projetos práticos e modernos.
 
 ---
 
